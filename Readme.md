@@ -83,8 +83,7 @@ The application features separate dashboards tailored for different user types, 
 - Full specifications
 - Map location
 ![Property Details](./Screenshots/pm.png)
-![Property Details](./Screenshots/propert%20id%201.png)
-![Property Details](./Screenshots/prpoerty%20%20id.png)
+![Property Details](./Screenshots/property-id.png)
 
 ---
 
@@ -93,7 +92,7 @@ The application features separate dashboards tailored for different user types, 
 - Key metrics
 - Application notifications
 
-![Manager Dashboard](./screenshots/applicatiopn%20m.png)
+![Manager Dashboard](./Screenshots/application-m.png)
 
 ---
 
@@ -101,14 +100,14 @@ The application features separate dashboards tailored for different user types, 
 - View, filter, and manage properties
 - Add new listings
 
-![Property Management](./screenshots/pm.png)
+![Property Management](./Screenshots/pm.png)
 
 ---
 
 ### Property Edit Page
 - Update property details and images
 
-![Property Edit](./screenshots/update.png)
+![Property Edit](./Screenshots/update.png)
 
 ---
 
@@ -116,7 +115,7 @@ The application features separate dashboards tailored for different user types, 
 - Review tenant applications
 - Approve/Deny requests
 
-![Applications Management](./screenshots/applicatiopnm.png)
+![Applications Management](./Screenshots/applicationm.png)
 
 ---
 
@@ -125,26 +124,29 @@ The application features separate dashboards tailored for different user types, 
 - Favorite properties
 - Payment tracking
 
+![Tenant Dashboard](./Screenshots/tenant-dashboard.png)
+
+---
 
 ### Tenant Residences Page
 - View rented properties
 - Lease and payment details
 
-![Tenant Residences](./screenshots/currentr.png)
+![Tenant Residences](./Screenshots/currentr.png)
 
 ---
 
 ### Tenant Favorites Page
 - Manage saved properties
 
-![Tenant Favorites](./screenshots/Screenshot%202025-04-26%20121500.png)
+![Tenant Favorites](./Screenshots/Screenshot-2025-04-26-121500.png)
 
 ---
 
 ### Tenant Applications Page
 - Track application status
 
-![Tenant Applications](./screenshots/apptenet.png)
+![Tenant Applications](./Screenshots/apptenet.png)
 
 ---
 
@@ -158,6 +160,4 @@ The application features separate dashboards tailored for different user types, 
 
 ## 📱 Responsive Design
 DanaRent provides a seamless, touch-friendly experience across all devices, including mobile with bottom navigation optimizations.
-
----
 
