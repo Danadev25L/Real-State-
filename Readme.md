@@ -83,7 +83,7 @@ The application features separate dashboards tailored for different user types, 
 - Full specifications
 - Map location
 ![Property Details](./Screenshots/pm.png)
-![Property Details](./Screenshots/property-id.png)
+![Property Details](./Screenshots/prpoertyid.png)
 
 ---
 
@@ -92,7 +92,7 @@ The application features separate dashboards tailored for different user types, 
 - Key metrics
 - Application notifications
 
-![Manager Dashboard](./Screenshots/application-m.png)
+![Manager Dashboard](./Screenshots/applicatiopnm.png)
 
 ---
 
@@ -115,7 +115,7 @@ The application features separate dashboards tailored for different user types, 
 - Review tenant applications
 - Approve/Deny requests
 
-![Applications Management](./Screenshots/applicationm.png)
+![Applications Management](./Screenshots/applicatiopnm.png.png)
 
 ---
 
@@ -124,7 +124,7 @@ The application features separate dashboards tailored for different user types, 
 - Favorite properties
 - Payment tracking
 
-![Tenant Dashboard](./Screenshots/tenant-dashboard.png)
+![Tenant Dashboard](./Screenshots/ss.png)
 
 ---
 
@@ -139,7 +139,7 @@ The application features separate dashboards tailored for different user types, 
 ### Tenant Favorites Page
 - Manage saved properties
 
-![Tenant Favorites](./Screenshots/Screenshot-2025-04-26-121500.png)
+![Tenant Favorites](./Screenshots/fav.png)
 
 ---
 
