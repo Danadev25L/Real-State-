@@ -116,7 +116,7 @@ The application features separate dashboards tailored for different user types, 
 - Review tenant applications
 - Approve/Deny requests
 
-![Applications Management](./screenshots/applicatiopn%20m.png)
+![Applications Management](./screenshots/applicatiopnm.png)
 
 ---
 
@@ -130,7 +130,7 @@ The application features separate dashboards tailored for different user types, 
 - View rented properties
 - Lease and payment details
 
-![Tenant Residences](./screenshots/current%20r.png)
+![Tenant Residences](./screenshots/currentr.png)
 
 ---
 
@@ -144,7 +144,7 @@ The application features separate dashboards tailored for different user types, 
 ### Tenant Applications Page
 - Track application status
 
-![Tenant Applications](./screenshots/app%20%20tenet.png)
+![Tenant Applications](./screenshots/apptenet.png)
 
 ---
 
