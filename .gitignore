@@ -1,0 +1,9 @@
+# Ignore large image files
+*.psd
+*.ai
+*.raw
+
+# Don't ignore screenshots needed for README
+!Screenshots/*.png
+!Screenshots/*.jpg
+!Screenshots/*.jpeg
