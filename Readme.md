@@ -152,7 +152,7 @@ The application features separate dashboards tailored for different user types, 
 - Payment history
 - Upcoming rent schedule
 
-![Payment Management](./Screenshots/payment-management.png)
+![Payment Management](./Screenshots/payment.png)
 
 ---
 
