@@ -2,7 +2,7 @@
 *.psd
 *.ai
 *.raw
-screenshots/
+
 # Ignore all screenshots by default
 Screenshots/*.png
 Screenshots/*.jpg
