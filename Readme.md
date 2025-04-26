@@ -115,7 +115,7 @@ The application features separate dashboards tailored for different user types, 
 - Review tenant applications
 - Approve/Deny requests
 
-![Applications Management](./Screenshots/applicatiopnm.png.png)
+![Applications Management](./Screenshots/applicatiopnm.png)
 
 ---
 
