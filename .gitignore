@@ -1,9 +1,24 @@
 # Ignore large image files
+.gitignore
+Readme.md
 *.psd
 *.ai
 *.raw
+screenshots/
+# Ignore all screenshots by default
+Screenshots/*.png
+Screenshots/*.jpg
+Screenshots/*.jpeg
+Screenshots/*.gif
 
-# Don't ignore screenshots needed for README
-!Screenshots/*.png
-!Screenshots/*.jpg
-!Screenshots/*.jpeg
+# But don't ignore these specific screenshots needed for README
+!Screenshots/landing.png
+!Screenshots/fav.png
+!Screenshots/pm.png
+!Screenshots/prpoertyid.png
+!Screenshots/applicatiopnm.png
+!Screenshots/update.png
+!Screenshots/ss.png
+!Screenshots/currentr.png
+!Screenshots/apptenet.png
+!Screenshots/payment.png
